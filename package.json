@@ -1,0 +1,28 @@
+{
+  "name": "doubledown",
+  "version": "1.0.0",
+  "description": "\"Combine two leveldown stores in the cache-aside pattern\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/simontegg/doubledown.git"
+  },
+  "keywords": [
+    "level",
+    "redis",
+    "dynamodb",
+    "cache"
+  ],
+  "author": "simontegg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simontegg/doubledown/issues"
+  },
+  "homepage": "https://github.com/simontegg/doubledown#readme",
+  "dependencies": {
+    "abstract-leveldown": "^6.0.1"
+  }
+}
